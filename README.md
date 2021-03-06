@@ -1,7 +1,7 @@
 # 바이오 팀스피릿 : 다같이 뜻모아 바이오 분석 프로젝트 하기 
 
 
-<img src=https://github.com/biospin/bio_teamspirt/blob/main/main01.JPG?raw=true  width=600  height=300/>
+<img src="https://github.com/biospin/bio_teamspirt/blob/main/main01.JPG?raw=true"  width=600  height=300/>
 
 
 ## 스터디 정보
