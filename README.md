@@ -30,7 +30,7 @@ http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcod
    2.3.업무와 일상을 정리하는 새로운 방법 노션 Notion - http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665476&orderClick=LEa&Kc=
   
 ## 차후 스터디      
- - 의견 받습니다.
+- K바이오 트렌드 2021 : http://www.yes24.com/Product/Goods/97034030
 
  
 ## 장소
